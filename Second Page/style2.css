@@ -46,13 +46,13 @@ nav ul li a {
 
 .left-text {
     display: flex;
-    padding-top: 14%;
+    padding-top: 25%;
     padding-left: 5px;
     align-items: center;
 }
 
 .text-in {
-    flex-basis: 50%;
+    flex-basis: 35%;
 }
 
 .left-text-title {
@@ -81,11 +81,11 @@ nav ul li a {
 
 
 .card {
-    width: 200px;
+    width: 300px;
     height: 200px;
     display:inline-block  ;
     border-radius: 10px;
-    background-image: url('snus.jpg');
+    background-color: whitesmoke;
     background-position: -120px;
     padding: 15px 25px;
     box-shadow: 0 0 5px #3500d3,
@@ -98,14 +98,14 @@ nav ul li a {
 
 .first-2 {
     position: relative;
-    left: 730px;
-    bottom: 370px;
+    left: 900px;
+    bottom: 460px;
 }
 
 .second-2 {
     position: absolute;
-    bottom: 30px;
-    left: 793px;
+    bottom: 180px;
+    left: 985px;
 }
 
 .first-2 .card:hover {

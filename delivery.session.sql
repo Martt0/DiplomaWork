@@ -1,4 +1,4 @@
--- CREATE TABLE Restaurants (
+--CREATE TABLE Restaurants (
 --     restaurant_id INT PRIMARY KEY AUTO_INCREMENT,
 --     name VARCHAR(255) NOT NULL,
 --     address VARCHAR(255) NOT NULL,
